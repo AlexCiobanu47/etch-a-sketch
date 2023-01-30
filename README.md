@@ -1,5 +1,6 @@
 Etch-a-sketch game from The Odin Project
-Skills used
+
+Skills used:
 * CSS
   * Flexbox
 * JavaScript
